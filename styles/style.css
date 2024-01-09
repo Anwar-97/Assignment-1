@@ -1,0 +1,185 @@
+.container{
+    background-image:url(../resources/Banner\ Image.png);
+    height: 600px;
+    width:1320px
+    border-radius: 16px;
+    margin-left:auto;  
+   margin-right:auto;
+   display:block;
+}
+
+
+.container-h4{
+    color: #FFF;
+    text-align:center;
+    font-family: Merriweather;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 200px;
+
+}
+.container-h2{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 70px;
+
+
+}
+.text-h2{
+
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 62px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.text{
+    text-align: center;
+}
+.text-h4{
+    
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.text-img{
+    width: 802.9px;
+    height: 500px;
+    margin: 0px 400px  0px 300px;
+    fill: url(<path-to-image>), lightgray 50% / cover no-repeat;
+
+}
+.text-h3{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.party{
+    background-image: url(../resources/Vectorrr.png);
+    height: 600px;
+    width: 1320px;
+    fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    text-align: center;
+    border-radius: 16px;
+}
+.party-h2{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 50px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; 
+letter-spacing: 7.04px;
+text-align: left;
+}
+.party-description{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 20px;
+font-style: normal;
+font-weight: 900;
+line-height: 40px;
+letter-spacing: 7.04px;
+text-align: left;
+}
+.party-h5{
+    color: #FFF;
+text-align: left;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+.party-img{
+    float: right;
+    margin-top: 50px;
+    
+
+}
+.address{
+    width: 1320px;
+height: 420px;
+background-color:rgb(240, 232, 232)
+
+
+
+}
+.address-p{
+    text-align: center;
+    padding-top: 120px;
+    
+}
+.address-b{
+    display: inline-flex;
+padding: 16px 32px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 8px;
+background: #F00;
+border: 0;
+color: #FFF;
+margin: 0 580px;
+}
+
+.text-primary{
+    color: red;
+}
+.text-primary1 {
+    color: red;
+}
+.text-primary2{
+    color: red;
+}
+.product-h5{
+    color: #F00;
+font-family: Inter;
+font-size: 10px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.product-h3{
+    color: #070211;
+font-family: Merriweather;
+font-size: 25px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.product-p{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; 
+
+width: 896px;
+}
+
+    
+   
+    
+    
+
+    
+
